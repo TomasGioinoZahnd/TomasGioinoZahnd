@@ -61,4 +61,7 @@ Focused on defensive security (*Blue Team*), network analysis, infrastructure mo
   <a href="mailto:tomasgioino@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://tryhackme.com/p/tomasgioino" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe" />
+  </a>
 </p>
