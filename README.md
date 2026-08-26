@@ -1,4 +1,3 @@
-[README-sobrio.md](https://github.com/user-attachments/files/31478914/README-sobrio.md)
 # Tomás Gioino Zahnd
 
 <p align="left">
